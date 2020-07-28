@@ -10,7 +10,7 @@ categories:
 
 本来打算使用下jupyter notebook，结果运行时报错了
 
-![1569900566693](ubuntu虚拟机使用jupyter报错/1569900566693.png)
+![](https://cdn.jsdelivr.net/gh/kcyln/ImageHosting@latest/2020/07/28/e0e1a1a313b4fdd21b92fbbe206b1bdf.png)
 
 然后，尝试卸载重装
 
@@ -19,7 +19,7 @@ sudo -H pip uninstall jupyter notebook
 sudo -H pip install jupyter notebook
 ```
 
-安装时又提示错误`Cannot uninstall 'ipython'`![1569900782267](ubuntu虚拟机使用jupyter报错/1569900782267.png)
+安装时又提示错误`Cannot uninstall 'ipython'`![](https://cdn.jsdelivr.net/gh/kcyln/ImageHosting@latest/2020/07/28/11df463c51409c3e8436a11973c7771b.png)
 
 直接使用命令安装ipython `pip install ipython`，发现并没有解决问题
 

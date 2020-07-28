@@ -22,6 +22,6 @@ categories:
 3. 最终解决方法
    - 查看ssh默认配置文件
      - `cat /etc/ssh/sshd_config`
-     - 修改配置文件 在Port 28171 下增加 Port 22![1563506113352](ssh连接失败/1563506113352.png)
+     - 修改配置文件 在Port 28171 下增加 Port 22![](https://cdn.jsdelivr.net/gh/kcyln/ImageHosting@latest/2020/07/28/54dbeb03a6f9e5faea73012741753d6b.png)
    - 重启服务     `sudo service ssh start`
 

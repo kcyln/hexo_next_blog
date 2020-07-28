@@ -12,9 +12,9 @@ categories:
 
 - 安装pyqt5 时出现错误，最后检查发现原来是开了fiddler，关闭fiddler即可
 
-  ![1563505654390](安装pyqt时报错/1563505654390.png)
+  ![](https://cdn.jsdelivr.net/gh/kcyln/ImageHosting@latest/2020/07/28/228d472d3db177a3c03a2f058fdc7505.png)
 
-  <br>
+  ​
 
   解决方法链接：<https://blog.csdn.net/jiang_xiaoo24/article/details/87689369>
 
