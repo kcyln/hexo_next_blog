@@ -23,6 +23,8 @@ stdout_logfile_backups = 10
 stdout_logfile = /home/kcyln/srv/awesome/log/app.log
 ```
 
+​    <!-- more -->
+
 ​    如上设置, 运行提示 is not executable
 
 ​    修改 `command = python3 /home/kcyln/srv/awesome/www/app.py`

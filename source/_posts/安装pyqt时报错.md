@@ -12,6 +12,8 @@ categories:
 
 - 安装pyqt5 时出现错误，最后检查发现原来是开了fiddler，关闭fiddler即可
 
+  <!-- more -->
+
   ![](https://cdn.jsdelivr.net/gh/kcyln/ImageHosting@latest/2020/07/28/228d472d3db177a3c03a2f058fdc7505.png)
 
   ​

@@ -16,6 +16,7 @@ categories:
   fc-list 查看支持的字体
   fc-list :lang=zh 查看支持的中文（冒号前面有空格）
   ```
+  <!-- more -->
 
 * 修改matplotlib字体
 

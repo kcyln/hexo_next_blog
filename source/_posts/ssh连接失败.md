@@ -11,7 +11,10 @@ categories:
 
 1. 是否安装ssh服务
    - `sudo apt-get install openssh-server`	
+
    - `sudo service ssh start |status`
+
+     <!-- more -->
 2. 是否开放22端口
    - `netstat -aptn | grep 22` 查看所有开放端口
    - Ubuntu开放端口方法

@@ -12,6 +12,8 @@ categories:
 
 ![](https://cdn.jsdelivr.net/gh/kcyln/ImageHosting@latest/2020/07/28/e0e1a1a313b4fdd21b92fbbe206b1bdf.png)
 
+<!-- more -->
+
 然后，尝试卸载重装
 
 ```shell
